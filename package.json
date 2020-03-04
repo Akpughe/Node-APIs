@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Developing REST APIs using node(express)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akpughe/Node-APIs.git"
+  },
+  "keywords": [
+    "Node",
+    "API"
+  ],
+  "author": "David Akpughe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akpughe/Node-APIs/issues"
+  },
+  "homepage": "https://github.com/Akpughe/Node-APIs#readme"
+}
